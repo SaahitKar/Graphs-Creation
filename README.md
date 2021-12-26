@@ -1,1 +1,3 @@
 # Graphs-Creation
+
+The program takes in two text files and outputs into another text file. The program accepts the input from the flight paths text file and the input from the requested flight path text file. The program then creates an undirected and acyclic graph using an adjacency matrix. Then using the graph, the program conducts a depth first search to find all of the flight paths from the starting city to the destination city. Then, the program finds the shortest flight path between the starting city and the destination city and outputs the shortest path based on the lowest cost or shortest time to the output file. 
